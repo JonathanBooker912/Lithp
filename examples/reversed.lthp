@@ -1,0 +1,8 @@
+thet prmpt "Enter a string: "
+athk prmpt input
+
+thet reverthed ""
+iterateth char input {
+    thet reverthed (pluth char reverthed)
+}
+dithplay reverthed

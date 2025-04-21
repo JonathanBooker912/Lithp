@@ -1,0 +1,9 @@
+thet prmpt "Input String: "
+athk prmpt input
+
+thet prmpt "Repeat Count: "
+athk prmpt count
+
+repeathh i count {
+    dithplay input
+}

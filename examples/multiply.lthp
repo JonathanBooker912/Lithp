@@ -1,0 +1,6 @@
+thet prompt "Num 1: "
+athk prompt num1
+thet prompt "Num 2: "
+athk prompt num2
+thet result (timethh num1 num2)
+dithplay result

@@ -1,0 +1,6 @@
+thet input_prompt "Input: "
+athk input_prompt input
+
+thet output_label "Output: "
+
+dithplay (pluth output_label input =)
